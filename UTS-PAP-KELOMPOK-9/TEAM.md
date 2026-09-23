@@ -1,6 +1,6 @@
 ## UTS - Pengantar Algoritma dan Pemrograman
 # KELOMPOK :
-- Karl Keagen (262518462) gtw jadi ato nggak awoakak
+- Owen?
 - Christoph Jordan Dalimartin (262510530)
 - Lionel Esra Mailuhu (262602117)
 - Joel Sebastian Lasmito (262415411)
